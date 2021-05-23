@@ -1,0 +1,4 @@
+Важная информация!
+
+    //Before starting you should create directory like "/test" and put there some classes as tasks.
+    // Or you can change the final field "DEFAULT_DIR" in LoaderFactoryRunner class
